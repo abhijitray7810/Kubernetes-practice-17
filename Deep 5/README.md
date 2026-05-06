@@ -15,7 +15,7 @@
 8. [Certificate.yml — Full Workflow](#8-certificateyml--full-workflow)
 9. [TLS Secret Store — tls.crt & tls.key](#9-tls-secret-store--tlscrt--tlskey)
 10. [Ingress — TLS Termination & Routing](#10-ingress--tls-termination--routing)
-11. [Ingress Problem Use Cases](#11-ingress-problem-use-cases)
+11. [Ingress Problem Use Cases](#11-ingress-problem-use-cases) 
 12. [Gateway API — Modern Traffic Management](#12-gateway-api--modern-traffic-management)
 13. [Gateway API Use Cases](#13-gateway-api-use-cases)
 14. [Noisy Neighbor Problem & OOM](#14-noisy-neighbor-problem--oom)
