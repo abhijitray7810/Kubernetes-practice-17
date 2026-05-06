@@ -12,7 +12,7 @@
 5. [mTLS — Mutual TLS](#5-mtls--mutual-tls)
 6. [cert-manager — Certificate Lifecycle in Kubernetes](#6-cert-manager--certificate-lifecycle-in-kubernetes) 
 7. [ClusterIssuer — In-Cluster CA Deployment](#7-clusterissuer--in-cluster-ca-deployment)
-8. [Certificate.yml — Full Workflow](#8-certificateyml--full-workflow)
+8. [Certificate.yml — Full Workflow](#8-certificateyml--full-workflow) 
 9. [TLS Secret Store — tls.crt & tls.key](#9-tls-secret-store--tlscrt--tlskey)
 10. [Ingress — TLS Termination & Routing](#10-ingress--tls-termination--routing) 
 11. [Ingress Problem Use Cases](#11-ingress-problem-use-cases) 
