@@ -1,5 +1,5 @@
 # Kubernetes Practice Repository 🚀
-
+ 
 This repository contains hands-on examples and configurations for working with Kubernetes. It is designed to help beginners and intermediate users understand core Kubernetes concepts through practical YAML files and command references.
 
 ---
