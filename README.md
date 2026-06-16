@@ -7,7 +7,7 @@ This repository contains hands-on examples and configurations for working with K
 ## 📂 Repository Structure
 
 Each folder in this repository represents a specific Kubernetes resource or concept: 
- 
+  
 * **All-command/** – Collection of commonly used Kubernetes commands
 * **Apache-Namespace/** – Namespace configuration for Apache workloads
 * **Config/** – ConfigMaps and configuration files
