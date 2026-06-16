@@ -13,7 +13,7 @@ Each folder in this repository represents a specific Kubernetes resource or conc
 * **Config/** – ConfigMaps and configuration files
 * **Cron-Job/** – Scheduled jobs using CronJob resources
 * **Cron-jobs-2/** – Additional CronJob examples
-* **Daemonset/** – DaemonSet configurations
+* **Daemonset/** – DaemonSet configurations 
 * **Deployments/** – Deployment manifests and examples
 * **Jobs/** – Kubernetes Job configurations
 * **Nginx-Dm/** – Nginx deployment steps
